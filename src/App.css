@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+
+table{
+  margin: 0 auto;
+}
+
+th{
+  background-color: rgb(57, 33, 129);
+  padding:5px 20px;
+  color:white
+}
+
+td {
+  text-align: center;
+  padding: 5px 10px;
+  background-color:hotpink;
+  color:white
+}
